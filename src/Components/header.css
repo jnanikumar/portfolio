@@ -1,0 +1,9 @@
+.dis {
+  display: flex;
+  flex-direction: row;
+}
+
+.gif {
+  height: 300px;
+  width: 250px;
+}

@@ -1,0 +1,194 @@
+{
+  "main": {
+    "name": "Jnani Kumar",
+    "occupation": "Student at NITT",
+    "description": "I am a reactjs and django developer ,I also integrate ML models into Web Apps",
+    "image": "mypic2.jpeg",
+    "bio": "Hi there! I am jnani  I've been coding for over 1 year now. I havebeen working on webdevelopment as well as machine learning , I've worked with startups to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams ",
+    "contactmessage": "Get in touch with me ",
+    "email": "jnanik16@gmail.com",
+    "phone": "8374754632",
+    "address": {
+      "street": "",
+      "city": "Parvathipuram",
+      "state": "Andhrapradesh",
+      "Country":"India"
+      
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "resume.pdf",
+    "social": [
+      
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jnani-kumar-vadigalla-443130193/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jnanikumar/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jnanikumar/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "NIT Trichy",
+        "degree": "Bachelor's Degree, Mechanical and Minor in Computer Applications",
+        "graduated": "May 2023 ",
+        "description": "CGPA - 8.51"
+      },
+      {
+        "school": "Narayana Junior College",
+        "degree": "11th and 12th",
+        "graduated": "May 2019 ",
+        "description": "percentage 96.8%"
+      },
+      {
+        "school": "Narayana High School",
+        "degree": "10th standard",
+        "graduated": "May 2017 ",
+        "description": "CGPA 9.7"
+      }
+    ],
+    "projects": [
+      {
+        "company": "Gmail Clone",
+        "title": "Gmail Application",
+        "link":"https://fir-collection-dfd28.web.app",
+        "years": "May 2021 ",
+        "description": "This is the clone of Gmail which looks similar to Gmail application , there is a proper Authentication System ,  and the authenticated users can send mails to the other users, this applications was developed using Reactjs and deployed on firebase"
+      },
+      {
+        "company": "Chat App",
+        "title": "Chatting with friends ",
+        "link":"https://auth-app-10efd.web.app/",
+        "years": "May 2021",
+        "description": "This is a simple chat application for group chat which is developed using reactjs and firsbase and the project was deployed on firebase "
+      },
+      {
+        "company": "Quiz Website",
+        "title": "Answering some questions",
+        "link":"https://jnanikumar.github.io/quiz-app/",
+        "years": "Feb 2021",
+        "description": "This is a web App designed using HTML, CSS and JavaScript , which was deployed on github , The users can find their accuracy after completing the quiz .  "
+      },
+      {
+        "company": "Weather App",
+        "title": "Weather of a particular city",
+        "link":"https://weather-app-349e4.web.app",
+        "years": "March 2021",
+        "description": "this is a webApp In which we can find the temperature details of city by typing in the city name,this  was  deployed on firebase  "
+      },
+      {
+        "company": "Portfolio website",
+        "title": "this website is all about my accomplishments",
+        "link":"https://portfolio-jnani-kumar.web.app",
+        "years": "June 2021",
+        "description": "This is my personal portfolio website of all my achievements and accomplishments , which is built up on top of Reactjs and deployed on firebase. "
+      },
+      {
+        "company": "Todo List",
+        "title": "Todo List web app",
+        "link":"https://todo-270e9.web.app/",
+        "years": "April 2021",
+        "description": "this web app is user Authenticated and the authenticated user can check their status of their works and deadlines and can also add works and deadlines"
+      },
+      {
+        "company": "Covid Tracker",
+        "title": "Updates on covid19",
+        "link":"https://trail-app-94135.web.app",
+        "years": "March 2021",
+        "description": "We can get the latest updates on covid from this web app , this is kind of dashboard"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "80%"
+      },
+      {
+        "name":"Machine Learning "
+        ,"level":"90%"
+      }
+      ,
+      {
+        "name":"C++"
+        ,"level":"90%"
+      }
+      ,
+      {
+        "name":"NLP"
+        ,"level":"90%"
+      }
+      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "React JS Certification from coursera",
+        "category": "",
+        "image": "reactjs_certificate.jpeg",
+        "url": "#"
+      },
+      {
+        "title": "Deep Learning Certification(Coursera)",
+        "category": "",
+        "image": "deeplearning_certificate.jpeg",
+        "url": "#"
+      },
+      {
+        "title": "ML Certification",
+        "category": "",
+        "image": "ML_Certification.jpeg",
+        "url": "#"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
+
+
+
+
